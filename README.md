@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![MasterHead](https://cdn.dribbble.com/users/291221/screenshots/2028841/briefcase.gif)
+
 
 <h1 align="center">Hi 👋, I'm tarek ait ahmed</h1>
 <h3 align="center">CS student from algeria</h3>
