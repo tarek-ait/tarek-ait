@@ -1,4 +1,4 @@
-## Hi th
+## Hi 
 
 <h1 align="center">Hi 👋, I'm tarek ait ahmed</h1>
 <h3 align="center">CS student from algeria</h3>
