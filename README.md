@@ -1,5 +1,4 @@
-## Hi ther
-
+## Hi the
 
 
 <h1 align="center">Hi 👋, I'm tarek ait ahmed</h1>
