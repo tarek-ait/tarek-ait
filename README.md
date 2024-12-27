@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **web dev, IT, UI/UX design**
 
-- 📫 How to reach me **tarekaitahmed0@gmail.com**
+- 📫 How to reach me **nt_ait_ahmed@esi.dz**
 
 - ⚡ Fun fact **the more i learn the more i realize how dumb i am**
 
