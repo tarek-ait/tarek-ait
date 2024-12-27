@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **fundamentals of AI, and full stack web apps**
+- 🌱 I’m currently learning **fundamentals of AI, and full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarek-ait](https://github.com/tarek-ait)
 
