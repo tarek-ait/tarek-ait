@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm tarek ait ahmed</h1>
 <h3 align="center">Computer science engineering student from algeria</h3>
 
-<h1/>
-<h1/>
+<h1><h1/>
+<h1><h1/>
 
 
 
