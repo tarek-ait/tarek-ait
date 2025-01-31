@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm tarek ait ahmed</h1>
 <h3 align="center">Computer science engineering student from algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarek-ait&label=Profile%20views&color=0e75b6&style=flat" alt="tarek-ait" /> </p>
-
-
 
 - 🌱 I’m currently learning **fundamentals of AI, and full stack development**
 
